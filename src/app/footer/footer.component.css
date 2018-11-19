@@ -1,0 +1,25 @@
+.contact{
+    background-color: 	#181818;
+    margin:0 auto;
+    width:60%;
+    
+
+}
+
+.contact-col>h1,p{
+    color:white;
+    /* padding:20px; */
+}
+
+.contact-col-right{
+    padding:20px 20px;
+}
+
+input{
+    margin:10px;
+    width:100%;
+}
+
+textarea{
+    margin:10px;
+}
